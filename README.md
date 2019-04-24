@@ -117,11 +117,13 @@ To download and install Swahili (Kenya) pack manually, you have to access to you
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/sw_ke/sw_KE.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/sw_ke/`
 
-See this screenshot
+See this screenshot:
 
 ![Swahili (Kenya) pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **sw_ke**
 
 #### Step 2: Flush cache
 
